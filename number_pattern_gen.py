@@ -123,3 +123,4 @@ while True:   #to make the loop forever
     radius = int(input("Enter the Radius of the circle pattern "))
     smbl = input("Enter the characters you would like to print")
     printPattern(radius, smbl)
+#just added this comment to perform commit on github
